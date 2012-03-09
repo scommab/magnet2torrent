@@ -4,3 +4,6 @@ A CLI Python tool that takes a magnet link and outputs a torrent file.
 Requires:
   python 2.6+
   python wrapped libtorrent 
+
+Known issues:
+  Multi-file torrents don't seem to be working right now
