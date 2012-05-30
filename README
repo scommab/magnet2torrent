@@ -1,12 +1,4 @@
-A CLI Python tool that takes a magnet link and outputs a torrent file.
 
-Requires:
-  python 2.6+
-  python wrapped libtorrent 
+THIS PROJECT IS DEAD.
 
-Known issues:
-  Multi-file torrents don't seem to be working right now
-
-
-It would seem I'm not the only person looking in to this issue:
-According to [ http://stackoverflow.com/questions/8689828/libtorrent-given-a-magnet-link-how-do-you-generate-a-torrent-file ]  the python API is broken right now, but will be fixed in the next version [ http://code.google.com/p/libtorrent/issues/detail?id=294 ]
+please use https://github.com/danfolkes/Magnet2Torrent instead, as it seems work better and be simpiler then mine.
